@@ -1,0 +1,71 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 98%;
+    height: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #2196F3;
+    background: linear-gradient(#2196F3, #3D5AFE );
+    margin: auto;
+}
+
+h1, h2 {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+    padding: 25px;
+}
+
+h2 {
+    font-size: 10px;
+}
+
+
+#lupa {
+    color: #2196F3;
+    font-size: 4rem;
+}
+
+div#redondo {
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    margin: 50px auto;
+    background-color: white;
+}
+
+
+
+
+div#formulario {
+    width: 35%;
+    height: 300%;
+    border: 1px solid black;
+    margin: 50px auto;
+}
+
+fieldset {
+    width: 90px;
+    height: 250px;
+    margin: 20px auto;
+    border: none;
+}
+
+#buscar {
+    text-align: center;
+    margin: 10px auto;
+    background-color: #2196F3;
+    color: white;
+}
+
+input {
+    width: 300px;
+}
